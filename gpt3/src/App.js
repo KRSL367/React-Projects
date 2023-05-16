@@ -21,7 +21,6 @@ const App=()=>{
         <Footer></Footer>
       
     </div>
-    
 }
 
 export default App;
