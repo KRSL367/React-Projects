@@ -6,11 +6,10 @@ import {Cta, NavBar, Brand} from './components';
 const App=()=>{
     return <div className="App">
         <div className="gradient__bg">
-            <NavBar>
-            </NavBar>
+            <NavBar />
+            <Header />
+
         </div>
-        <Header>
-        </Header>
         <Brand>
         </Brand>
         <WhatGPT3>
