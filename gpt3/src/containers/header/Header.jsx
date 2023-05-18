@@ -5,7 +5,7 @@ import ai from '../../assets/ai.png'
 
 const Header = () => {
   return (
-    <div className='gpt3__header section__padding'>
+    <div className='gpt3__header section__padding' id= 'home'>
       <div className='gpt3__header-content'>
           <h1 className='gradient__text'>Learning how to build a responsive website using React</h1>
           <p>Lorem Tempora repellat tempore facilis neque cum unde ex modi eveniet commodi, ad doloribus consectetur maxime nulla quas? Necessitatibus accusamus nemo corrupti qui?</p>
