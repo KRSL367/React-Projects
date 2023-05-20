@@ -14,11 +14,11 @@ const App=()=>{
         </Brand>
         <WhatGPT3>
         </WhatGPT3>
-        <Features></Features>
-        <Possibility></Possibility>
-        <Cta></Cta>
-        <Blog></Blog>
-        <Footer></Footer>
+        <Features />
+        <Possibility />
+        <Cta />
+        <Blog />
+        <Footer />
       
     </div>
 }
